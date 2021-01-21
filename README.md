@@ -6,6 +6,6 @@ The APP allows users to view all books, search books, add new books, update book
 Write the program in both functional-oriented programming and Object-Oriented Programming. 
 
 # Executable version
-Location:
+Location:  
 Functional-Oriented/dist/FrontEnd.exe  
 OOP/dist/OOP_FE.exe
